@@ -30,6 +30,13 @@ export const posts = [
             'post-2020-03-16/svampebob.jpg'],
         author: 'Lasse',
         created: new Date("2020-03-16 11:00")
+    },
+    {
+        title: `trampolin`,
+        bodyText: `jeg har landet min første stående baglænder`,
+        images: ['post-2020-03-18/IMG_20200318_101419.jpg'],
+        author: 'Lasse',
+        created: new Date("2020-03-18 10:49")
     }
 ];
 
